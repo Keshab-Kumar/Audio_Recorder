@@ -1,9 +1,4 @@
 # 🎙️ Audio Recorder - Python Library for Recording Audio  
-
-[![PyPI version](https://badge.fury.io/py/audio-recorder.svg)](https://pypi.org/project/audio-recorder/)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Python Version](https://img.shields.io/badge/python-3.6+-brightgreen.svg)](https://www.python.org/)  
-
 ## 🚀 Introduction  
 **Audio Recorder** is a simple and lightweight Python package that allows you to record audio and save it as a WAV file.  
 Built using `pyaudio`, it provides a convenient way to capture audio with minimal setup.  
