@@ -1,0 +1,4 @@
+pipwin
+pyaudio
+audio-recorder-k==0.1.0
+
